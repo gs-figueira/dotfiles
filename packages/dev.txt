@@ -1,0 +1,18 @@
+# Ferramenta base
+git
+github-cli
+curl
+unzip
+
+# nvim e deps
+neovim
+gcc
+make
+ripgrep
+fd
+tree-sitter-cli
+wl-clipboard
+ttf-jetbrains-mono-nerd
+
+# outros
+firefox
