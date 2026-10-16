@@ -14,5 +14,12 @@ tree-sitter-cli
 wl-clipboard
 ttf-jetbrains-mono-nerd
 
-# outros
-firefox
+# odin lang support
+odin
+ols
+
+# python support
+python
+pyright
+ruff
+uv
